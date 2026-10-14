@@ -9,7 +9,6 @@ A single-screen lead management tool, built as a lightweight CRM. A sales rep ca
 | Frontend | Next.js (App Router), TypeScript, Tailwind CSS, shadcn/ui |
 | Backend | Node.js, Express 4, Zod |
 | Database | PostgreSQL (Supabase or local) with Prisma 6 |
-| Tooling | Docker Compose |
 
 
 ## Features
@@ -31,7 +30,6 @@ A single-screen lead management tool, built as a lightweight CRM. A sales rep ca
 - **Search by name** (debounced, case-insensitive)
 - **Overdue follow-ups highlighted in red**, in their own section
 - **Status filters with live counts**
-- **Docker Compose setup** for the database, API and frontend
 - **Seed script** that creates 7 sample leads with discussions by calling the API
 
 ### Extras
