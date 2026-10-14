@@ -1,9 +1,5 @@
-import Image from "next/image";
+import LeadBoard from '../components/leads/LeadBoard';
 
 export default function Home() {
-  return (
-    <div>
-      hello
-    </div>
-  );
+  return <LeadBoard />;
 }
