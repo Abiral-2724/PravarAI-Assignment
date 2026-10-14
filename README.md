@@ -53,7 +53,7 @@ leadflow/
 
 ```bash
 git clone <your-repo-url>
-cd leadflow
+cd PravarAI-Assignment
 ```
 
 ## Manual setup 
